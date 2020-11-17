@@ -2,7 +2,7 @@
 
 This is my little attempt and writing a short GNL, without sacrificing readability or efficiency.
 
-## With clean code, please!
+### With clean code, please!
 
 The program is fully protected against errors, including malloc fails and bad reads.
 As far as I know, it works with everything.
